@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onurkosan.kpsstarih",
+        "sha256_cert_fingerprints": ["DA:7F:14:11:0F:89:21:1B:C1:43:49:A1:D1:2E:56:0C:47:90:C9:BB:05:13:44:18:B9:32:71:7F:F3:A8:ED:50"]
+      }
+    }]
