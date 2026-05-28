@@ -1,7 +1,7 @@
 {
-  "name": "KPSS Tarih: Atanmanın Anahtarı",
+  "name": "KPSS Tarih: Güncel Sorular",
   "short_name": "KPSS Tarih",
-  "description": "KPSS Tarih konularında çıkması muhtemel kilit soruları çöz, hap bilgilerle tekrar yap. KPSS 2026 hazırlığında atanmanın anahtarı.",
+  "description": "KPSS Tarih konularında çıkması muhtemel kilit soruları çöz, hap bilgilerle tekrar yap. KPSS 2026 sınavına güncel sorularla hazırlan.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
